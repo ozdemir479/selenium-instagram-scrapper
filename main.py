@@ -7,8 +7,8 @@ import time
 import datetime
 import json
 
-username = "batush.qx"
-password = "efe1994efe"
+username = ""
+password = ""
 
 dm_url = "https://www.instagram.com/direct/t/17842582928799912"
 
