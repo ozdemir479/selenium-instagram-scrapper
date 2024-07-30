@@ -10,7 +10,7 @@ import json
 username = ""
 password = ""
 
-dm_url = "https://www.instagram.com/direct/t/17842582928799912"
+dm_url = "https://www.instagram.com/direct/t/<TRACKING_USER_DM_ID>"
 
 chrome_options = Options()
 # chrome_options.add_argument("--headless")
